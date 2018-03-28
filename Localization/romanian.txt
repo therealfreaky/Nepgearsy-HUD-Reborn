@@ -7,35 +7,35 @@
 
     "NepgearsyHUDRebornMenu/ForcedLocalization" : "Limba",
 
-    "NepgearsyHUDReborn/Localization/English" : "English",
-	"NepgearsyHUDReborn/Localization/Turkish" : "Turkish",
-	"NepgearsyHUDReborn/Localization/Portuguese" : "Portuguese",
-	"NepgearsyHUDReborn/Localization/Spanish" : "Spanish",
-	"NepgearsyHUDReborn/Localization/Russian" : "Russian",
-	"NepgearsyHUDReborn/Localization/French" : "French",
-	"NepgearsyHUDReborn/Localization/Romanian" : "Romanian",
+    "NepgearsyHUDReborn/Localization/English" : "Engleza",
+	"NepgearsyHUDReborn/Localization/Turkish" : "Turca",
+	"NepgearsyHUDReborn/Localization/Portuguese" : "Portugheza",
+	"NepgearsyHUDReborn/Localization/Spanish" : "Spaniola",
+	"NepgearsyHUDReborn/Localization/Russian" : "Rusa",
+	"NepgearsyHUDReborn/Localization/French" : "Franceza",
+	"NepgearsyHUDReborn/Localization/Romanian" : "Romana",
 
-    "NepgearsyHUDReborn/Color/White" : "White",
-	"NepgearsyHUDReborn/Color/Red" : "Red",
-	"NepgearsyHUDReborn/Color/Orange" : "Orange",
-	"NepgearsyHUDReborn/Color/Yellow" : "Yellow",
-	"NepgearsyHUDReborn/Color/Green" : "Green",
+    "NepgearsyHUDReborn/Color/White" : "Alb",
+	"NepgearsyHUDReborn/Color/Red" : "Rosu",
+	"NepgearsyHUDReborn/Color/Orange" : "Portocaliu",
+	"NepgearsyHUDReborn/Color/Yellow" : "Galben",
+	"NepgearsyHUDReborn/Color/Green" : "Verde",
 	"NepgearsyHUDReborn/Color/Cyan" : "Cyan",
-	"NepgearsyHUDReborn/Color/Blue_Ocean" : "Blue Ocean",
-	"NepgearsyHUDReborn/Color/Blue" : "Blue",
-	"NepgearsyHUDReborn/Color/Purple" : "Purple",
-	"NepgearsyHUDReborn/Color/Pink" : "Pink",
-	"NepgearsyHUDReborn/Color/Fushia" : "Fushia",
-	"NepgearsyHUDReborn/Color/Red_Fushia" : "Red Fushia",
+	"NepgearsyHUDReborn/Color/Blue_Ocean" : "Albastru oceanic",
+	"NepgearsyHUDReborn/Color/Blue" : "Albastru",
+	"NepgearsyHUDReborn/Color/Purple" : "Mov",
+	"NepgearsyHUDReborn/Color/Pink" : "Roz",
+	"NepgearsyHUDReborn/Color/Fushia" : "Fuschia",
+	"NepgearsyHUDReborn/Color/Red_Fushia" : "Rosu Fuschia",
 
 	"NepgearsyHUDReborn/Fonts/Normal" : "Normal (font_large_mf)",
 	"NepgearsyHUDReborn/Fonts/Eurostile" : "Eurostile",
 
-	"NepgearsyHUDReborn/HealthStyle/Thin" : "Thin",
-	"NepgearsyHUDReborn/HealthStyle/Vanilla" : "Vanilla",
+	"NepgearsyHUDReborn/HealthStyle/Thin" : "Subtire",
+	"NepgearsyHUDReborn/HealthStyle/Vanilla" : "Obisnuit",
 
-	"NepgearsyHUDReborn/StatusNumberType/Health_Counter" : "Health Counter",
-	"NepgearsyHUDReborn/StatusNumberType/Shield_Counter" : "Shield Counter",
+	"NepgearsyHUDReborn/StatusNumberType/Health_Counter" : "Numar HP",
+	"NepgearsyHUDReborn/StatusNumberType/Shield_Counter" : "Numar Armura",
 
     "NepgearsyHUDRebornMenu/Buttons/HUDOptionsCat" : "Optiuni HUD",
     "NepgearsyHUDRebornMenu/Buttons/HUD/AssaultBarFont" : "Font pentru bara de asalt",
@@ -45,8 +45,8 @@
     "NepgearsyHUDRebornMenu/Buttons/HUD/MinimapZoom" : "Zoom minimap",
     "NepgearsyHUDRebornMenu/Buttons/HUD/Trackers" : "Activeaza countere(ostatici, kill-uri etc.)",
     "NepgearsyHUDRebornMenu/Buttons/HUD/TrueAmmo" : "Activeaza optiunea de munitie reala",
-    "NepgearsyHUDRebornMenu/Buttons/HUD/HealthStyle" : "Health Style",
-	"NepgearsyHUDRebornMenu/Buttons/HUD/StatusNumberType" : "Status Number Type",
+    "NepgearsyHUDRebornMenu/Buttons/HUD/HealthStyle" : "Stil bara HP",
+	"NepgearsyHUDRebornMenu/Buttons/HUD/StatusNumberType" : "Tipul numarului de status",
     "NepgearsyHUDRebornMenu/Buttons/HUD/Scale" : "Dimensiuni HUD",
     "NepgearsyHUDRebornMenu/Buttons/HUD/Spacing" : "Spatiere HUD",
 
@@ -75,6 +75,6 @@
     "NepgearsyHUDReborn/HUD/AssaultCorner/Coming" : "Pregatiti-va de urmatorul asalt",
     "NepgearsyHUDReborn/HUD/AssaultCorner/NoReturn" : "Punctul fara intoarcere",
 
-    "hud_instruct_mask_on" : ""
+    "hud_instruct_mask_on" : "freaky <3<3"
 
 }
